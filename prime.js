@@ -1,8 +1,11 @@
 let x=7;
+let count = 0;
 
-for(let i=0; i<=7;i++)
-if(x%i==0){count++;
+for(let i=0; i<=7;i++) {
+if(x%i==0){
+count++;
 }
 
 if(count==2){
-console.log(x,"is prime number")}
+console.log(x,"is prime number");
+}
