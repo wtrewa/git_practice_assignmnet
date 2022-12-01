@@ -11,4 +11,4 @@ if(palindrome) {
  console.log(palindrome);
 } else {
 console.log(palindrome);
-}
+0
